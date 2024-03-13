@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
         - name: hellonode
-          image: soueo46/hellonode
+          image: soueo47/hellonode
           imagePullPolicy: Always
           env:
             - name: PORT
